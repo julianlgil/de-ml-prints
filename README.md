@@ -21,11 +21,11 @@ Elaborado por: Julian Gil
 
 ### Decisiones
 
-- Se creó una clase abstracta llamada ETL con el fin de configurar algunas responsabilidades genéricas para cualquier
+- Se creó una clase abstracta llamada [ETL](etl.py) con el fin de configurar algunas responsabilidades genéricas para cualquier
 proceso ETL, como definir el flujo de extract, transform y load. Además, en este caso, se definió de manera genérica la
 configuración del logging.
 
-- De esta clase abstracta se extiende la clase ValuePropsEtl, que, para nuestro caso, contendrá toda la lógica de negocio
+- De esta clase abstracta se extiende la clase [ValuePropsEtl](https://github.com/julianlgil/de-ml-prints/blob/main/etl.py#L40), que, para nuestro caso, contendrá toda la lógica de negocio
 referente al ejercicio.
 
 - La clase ValuePropsEtl recibirá un listado de DataSources, los cuales son objetos que contienen la información necesaria
