@@ -1,0 +1,29 @@
+2024-11-12 22:37:19,823 INFO: 127554 prints were found between 2020-11-23 - 2020-11-30
+2024-11-12 22:44:01,254 INFO: 127554 prints were found between 2020-11-23 - 2020-11-30
+2024-11-12 22:50:25,089 ERROR: An exception occurred when extracting data. Reason: 'user_id'
+2024-11-12 22:52:41,946 ERROR: An exception occurred when extracting data. Reason: 'user_id'
+2024-11-12 22:53:37,059 ERROR: An exception occurred when extracting data. Reason: 'user_id'
+2024-11-12 23:00:19,077 ERROR: An exception occurred when extracting data. Reason: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-11-12 23:03:30,319 WARNING: No taps data to process
+2024-11-12 23:03:30,319 ERROR: An exception occurred when extracting data. Reason: No prints data to process
+2024-11-12 23:07:33,021 INFO: 127554 prints were found between 2020-11-23 - 2020-11-30
+2024-11-12 23:28:22,290 INFO: 127554 prints were found between 2020-11-23 - 2020-11-30
+2024-11-12 23:34:13,834 WARNING: The data source type: XML is not supported
+2024-11-12 23:34:13,834 ERROR: An exception occurred when extracting data. Reason: The data source type: {data_source.type} is not supported
+2024-11-12 23:34:13,834 ERROR: An exception occurred when extracting data. Reason: [Errno 2] No such file or directory: 'test_csv.csv'
+2024-11-12 23:34:13,856 WARNING: No prints data to process
+2024-11-12 23:34:13,860 INFO: 2 prints were found between 2024-11-05 - 2024-11-12
+2024-11-12 23:35:07,960 WARNING: The data source type: XML is not supported
+2024-11-12 23:35:07,961 ERROR: An exception occurred when extracting data. Reason: The data source type: {data_source.type} is not supported
+2024-11-12 23:35:15,295 WARNING: No prints data to process
+2024-11-12 23:35:15,299 INFO: 2 prints were found between 2024-11-05 - 2024-11-12
+2024-11-12 23:37:06,870 WARNING: The data source type: XML is not supported
+2024-11-12 23:37:06,870 ERROR: An exception occurred when extracting data. Reason: The data source type: {data_source.type} is not supported
+2024-11-12 23:37:14,355 WARNING: No prints data to process
+2024-11-12 23:37:14,359 INFO: 2 prints were found between 2024-11-05 - 2024-11-12
+2024-11-12 23:42:07,450 WARNING: No prints data to process
+2024-11-12 23:42:07,454 INFO: 2 prints were found between 2024-11-05 - 2024-11-12
+2024-11-12 23:43:07,087 WARNING: The data source type: XML is not supported
+2024-11-12 23:43:07,087 ERROR: An exception occurred when extracting data. Reason: The data source type: {data_source.type} is not supported
+2024-11-12 23:43:14,430 WARNING: No prints data to process
+2024-11-12 23:43:14,434 INFO: 2 prints were found between 2024-11-05 - 2024-11-12
